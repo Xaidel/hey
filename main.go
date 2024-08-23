@@ -4,7 +4,7 @@ Copyright © 2024 NAME HERE <EMAIL ADDRESS>
 */
 package main
 
-import "github.com/Xaidel/ratata/cmd"
+import "github.com/Xaidel/hey/cmd"
 
 func main() {
 	cmd.Execute()

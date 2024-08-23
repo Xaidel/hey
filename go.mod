@@ -1,4 +1,4 @@
-module github.com/Xaidel/ratata
+module github.com/Xaidel/hey
 
 go 1.22.5
 
